@@ -1,1 +1,51 @@
+.profundidadUno{
+    z-index: 1000;
+    
+}
 
+.porte1{
+    height: 138px;
+    width: 100%;
+}
+
+#todo2{
+    margin-top: 100px;
+    color: #E3DAC9;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+#todo3{
+    
+    color: #E3DAC9;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+
+
+/* #imagenUno{
+    display: block;
+}
+
+#imagenDos{
+    display: none;
+}
+
+#imagenTres{
+    display: none;
+}
+
+#imagenCuatro{
+    display: none;
+}
+
+#imagenCinco{
+    display: none;
+}
+
+#imagenSeis{
+    display: none;
+} */
